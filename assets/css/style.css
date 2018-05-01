@@ -1,0 +1,23 @@
+body{
+    background-image: url("../image/4345890-hexagon-wallpapers.jpg");
+    font-size: 22px;
+    font-weight: bold;
+}
+
+
+.jumbotron{
+    background-image: url("../image/download.jpeg");
+    color:greenyellow;
+}
+
+
+.panel-body{
+    background: yellowgreen ;
+}
+
+
+.panel-default>.panel-heading {
+    color: #333;
+    background-color: grey;
+    border-color: #ddd;
+}
